@@ -4,7 +4,7 @@ Test Login Page [IOET - QA - www.saucedemo.com] with Firefox Browser.
 Description:
 
 
-* This script for test the following test case: 
+* This script for test following Scenarios: 
 ```sh
 * Login users registered
 * Unauthorized user
